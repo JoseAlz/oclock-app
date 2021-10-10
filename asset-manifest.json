@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oclock-app/static/css/main.cc563a01.chunk.css",
+    "main.js": "/oclock-app/static/js/main.f81e75db.chunk.js",
+    "main.js.map": "/oclock-app/static/js/main.f81e75db.chunk.js.map",
+    "runtime-main.js": "/oclock-app/static/js/runtime-main.db1cd35b.js",
+    "runtime-main.js.map": "/oclock-app/static/js/runtime-main.db1cd35b.js.map",
+    "static/js/2.cc388804.chunk.js": "/oclock-app/static/js/2.cc388804.chunk.js",
+    "static/js/2.cc388804.chunk.js.map": "/oclock-app/static/js/2.cc388804.chunk.js.map",
+    "index.html": "/oclock-app/index.html",
+    "static/css/main.cc563a01.chunk.css.map": "/oclock-app/static/css/main.cc563a01.chunk.css.map",
+    "static/js/2.cc388804.chunk.js.LICENSE.txt": "/oclock-app/static/js/2.cc388804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1cd35b.js",
+    "static/js/2.cc388804.chunk.js",
+    "static/css/main.cc563a01.chunk.css",
+    "static/js/main.f81e75db.chunk.js"
+  ]
+}
